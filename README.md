@@ -14,5 +14,7 @@ Tech Stack
 Python: For backend logic and API integration.
 
 Streamlit: For building an interactive web interface.
-\nGoogle Gemini API: Provides the AI model for generating responses.
-\ndotenv: Manages environment variables securely.
+
+Google Gemini API: Provides the AI model for generating responses.
+
+dotenv: Manages environment variables securely.
